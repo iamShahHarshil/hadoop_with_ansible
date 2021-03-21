@@ -1,1 +1,2 @@
-# hadoop_with_ansible
+# Configuring Hadoop using Ansible and starting services.
+
