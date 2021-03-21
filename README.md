@@ -1,4 +1,5 @@
 # Configuring Hadoop using Ansible and starting services.
+This following practical is performed in RedHat linux 8 only.
 
 #### The `masterconf.yml` file is used to configure master node of hadoop.
 #### And `slaveconf.yml` file is used to configure slave node of hadoop.
