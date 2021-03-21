@@ -4,7 +4,7 @@
 #### And `slaveconf.yml` file is used to configure slave node of hadoop.
 
 `d_core-site.xml` and `d_hdfs-site.xml` files are the configuration files for slave node. We will copy both of these files to slave node at following location 
-> /etc/hadoop
+> /etc/hadoop.
 and save them with `core-site.xml` and `hdfs-site.xml` names respectively. These conf files contains all neccessary information to keep slave node up and running.
 
 #### Similarly,
